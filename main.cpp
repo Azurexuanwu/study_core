@@ -1,10 +1,4 @@
-/*
-#@Author: Cxk  
-#@Date: 2022-11-26 11:41:40  
- * @Last Modified by: Cxk
- * @Last Modified time: 2022-11-26 11:52:18
 
-*/
 #include <cmath>
 #include <random>
 #include <iostream>
